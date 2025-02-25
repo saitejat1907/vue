@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Akash Devulapally - Portfolio</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #f4f4f4; text-align: center; }
+        header { background: #333; color: white; padding: 20px; font-size: 24px; }
+        .container { max-width: 900px; margin: 20px auto; background: white; padding: 20px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); text-align: left; }
+        h2 { border-bottom: 2px solid #333; padding-bottom: 5px; }
+        ul { list-style-type: none; padding: 0; }
+        li { margin: 5px 0; }
+        a { color: #007BFF; text-decoration: none; }
+    </style>
+</head>
+<body>
+    <header>Akash Devulapally - Data Engineer | Data Scientist | AWS Certified</header>
+    <section>
+        <div class="container">
+            <h2>About Me</h2>
+            <p>I am a results-driven Data Engineer and Data Scientist with a strong background in designing, optimizing, and implementing data-driven solutions.</p>
+            <h2>Skills & Technologies</h2>
+            <ul>
+                <li>Python, SQL, JavaScript, C, C++, SAP ABAP, HTML, CSS</li>
+                <li>React.js, Node.js, Flask, Django, Spring Boot</li>
+                <li>AWS, Azure, Google Cloud, Spark, Docker, Kubernetes, Terraform</li>
+                <li>Power BI, Tableau, Matplotlib, Seaborn</li>
+            </ul>
+            <h2>Certifications</h2>
+            <ul>
+                <li>AWS Certified Solutions Architect</li>
+                <li>Microsoft Certified: Azure Administrator Associate</li>
+                <li>IBM Certified Data Science Professional</li>
+            </ul>
+            <h2>Work Experience</h2>
+            <ul>
+                <li>Data Analyst Intern - Maximus Tech INC</li>
+                <li>Data Engineer - Celnet INC</li>
+                <li>AI & ML Intern - IIT Guwahati</li>
+            </ul>
+            <h2>Projects</h2>
+            <ul>
+                <li>Customer Segmentation & Chip Purchase Behavior Analysis</li>
+                <li>Image Classification using CNN</li>
+                <li>Sentiment Analysis using NLP</li>
+                <li>Tesla Stock Data Analysis</li>
+                <li>Cloud-Based CI/CD Pipeline Automation</li>
+            </ul>
+            <h2>Contact</h2>
+            <p>Email: akash.devulapally@example.com</p>
+            <p><a href="https://linkedin.com/in/akashdevulapally">LinkedIn</a> | <a href="https://github.com/akashdevulapally">GitHub</a></p>
+        </div>
+    </section>
+</body>
+</html>
